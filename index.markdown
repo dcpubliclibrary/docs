@@ -4,5 +4,5 @@ layout: default
 nav_order: 1
 ---
 
-# Front page
-Your content goes here!
+## People's Archive @ DC Public Library Documentation
+This site is a work in progress to gather all documentation for [People's Archive @ DC Public Library](https://www.dclibrary.org/thepeoplesarchive)
