@@ -20,7 +20,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Future Docs Template
-description: Template site for the "Committing to Documentation" workshop
+description: People's Archive @ DCPL Documentation
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
