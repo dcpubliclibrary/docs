@@ -19,8 +19,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: People’s Archive @ DCPL Documentation 
-description: People's Archive @ DCPL Documentation
+title: People’s Archive Documentation 
+description: People's Archive @ DC Public Library Documentation
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
