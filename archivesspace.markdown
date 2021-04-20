@@ -715,7 +715,7 @@ This section is not required.
 
 This section is not required.
 
-Uploading the Spreadsheet ![](https://lh3.googleusercontent.com/SVgr6VhMuijydQhkYK2dfb17UEMTqFOCmphfgoJ2vrrToanzAtMHVfBLEFyIP3aj_h6XwZs76eKVogRyYdCm3oOykPjSkQHD3xWA5udjVZm2KSHz-yqSssi6MhBFwIMIesTTO9R9)
+## Uploading the Spreadsheet ![](https://lh3.googleusercontent.com/SVgr6VhMuijydQhkYK2dfb17UEMTqFOCmphfgoJ2vrrToanzAtMHVfBLEFyIP3aj_h6XwZs76eKVogRyYdCm3oOykPjSkQHD3xWA5udjVZm2KSHz-yqSssi6MhBFwIMIesTTO9R9)
 
 You are now ready to ingest Series and Child component data into your ASpace Resource. 
 
