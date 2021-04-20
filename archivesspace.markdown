@@ -343,7 +343,7 @@ Agents are not required by ASpace, but please try to link at least one Creator o
 
 6.  Agent: Required. Search for an existing Agent or click on the arrow to Browse. 
 
--   If you cannot find the required Agent see [Appendix I: Creating New Agent Records](#appendix-i-creating-new-agent-records). 
+-   If you cannot find the required Agent see [Appendix I: Creating New Agent Records](#create-an-agent-record). 
 
 8.  Repeat steps 1-5 for all additional Creators and Subjects.
 
@@ -355,7 +355,7 @@ Subjects are not required by ASpace, but please try to link at least two.
 
 2.  Subjects: Required. Search for an existing Subject or click on the arrow to Browse 
 
--   If you cannot find the required Subject see[  Appendix II: Creating New Subject Records](#appendix-ii-creating-new-subject-records). 
+-   If you cannot find the required Subject see[  Appendix II: Creating New Subject Records](#create-a-subject-record). 
 
 4.  Repeat steps 1-2 to add all subjects.
 
@@ -861,7 +861,7 @@ This section is not required.
 
 Please fill in as much information as possible. Required fields are in red. The fields are broken into sections.
 
-1.  Follow the steps above for [Creating an Agent Record](#creating-an-agent-record)
+1.  Follow the steps above for [Creating an Agent Record](#create-an-agent-record)
 
 2.  Select Corporate Entity from the menu.
 
@@ -960,7 +960,7 @@ This section is not required.
 ## Family Fields
  Please fill in as much information as possible. Required fields are in red. The fields are broken into sections.
 
-1.  Follow the steps above for [Creating an Agent Record](#creating-an-agent-record)
+1.  Follow the steps above for [Creating an Agent Record](#create-an-agent-record)
 
 2.  Select Family from the menu.
 
