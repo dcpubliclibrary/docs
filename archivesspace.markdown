@@ -343,7 +343,7 @@ Agents are not required by ASpace, but please try to link at least one Creator o
 
 6.  Agent: Required. Search for an existing Agent or click on the arrow to Browse. 
 
--   If you cannot find the required Agent see [Appendix I: Creating New Agent Records](https://docs.google.com/document/d/119JBkoKKtmhGbY2JZ19KmMF-L3sBd2ChOoG5Y2QvUO8/edit#heading=h.czon3cbycg55). 
+-   If you cannot find the required Agent see [Appendix I: Creating New Agent Records](#appendix-i-creating-new-agent-records). 
 
 8.  Repeat steps 1-5 for all additional Creators and Subjects.
 
@@ -355,7 +355,7 @@ Subjects are not required by ASpace, but please try to link at least two.
 
 2.  Subjects: Required. Search for an existing Subject or click on the arrow to Browse 
 
--   If you cannot find the required Subject see[  Appendix II: Creating New Subject Records](https://docs.google.com/document/d/119JBkoKKtmhGbY2JZ19KmMF-L3sBd2ChOoG5Y2QvUO8/edit#heading=h.wfjiy5q7dbw7). 
+-   If you cannot find the required Subject see[  Appendix II: Creating New Subject Records](#appendix-ii-creating-new-subject-records). 
 
 4.  Repeat steps 1-2 to add all subjects.
 
@@ -561,7 +561,7 @@ Adding an additional Child creates a lower level in the hierarchy. If you want t
 
 2.  Click Add Child 
 
-3.  Repeat steps above for [Adding A Child Component](https://docs.google.com/document/d/119JBkoKKtmhGbY2JZ19KmMF-L3sBd2ChOoG5Y2QvUO8/edit#heading=h.xooah87iyin2)
+3.  Repeat steps above for [Adding A Child Component](#adding-a-child-component)
 
 ## Adding Sibling Components
 
@@ -571,7 +571,7 @@ Sibling components are parallel levels in the hierarchy. For example adding addi
 
 2.  Click Add Sibling
 
-3.  Repeat steps above for [Adding A Child Component](https://docs.google.com/document/d/119JBkoKKtmhGbY2JZ19KmMF-L3sBd2ChOoG5Y2QvUO8/edit#heading=h.xooah87iyin2) (steps are the same for Sibling)
+3.  Repeat steps above for [Adding A Child Component](#adding-a-child-component) (steps are the same for Sibling)
 
 ![](https://lh6.googleusercontent.com/eN35WQgeT-70ypP46_WPaaDoH36ueEegGA2frQvvzf6Fr3nmZTGgdJKZVl2Xs4xUaEomb3YrPC-ll9Afh5tTv4juodb-NnfqFAMgta0kf3mCrbUh4_Nwv2uUhMsBkNhTr6XsMUKV)
 
@@ -581,7 +581,7 @@ Sibling components are parallel levels in the hierarchy. For example adding addi
 
 -   To use this feature the top level Collection component must first be created in ASpace before the spreadsheet may be ingested. 
 
--   Follow the steps above on [Top Level Component Fields](https://docs.google.com/document/d/119JBkoKKtmhGbY2JZ19KmMF-L3sBd2ChOoG5Y2QvUO8/edit#heading=h.hmtw6jy5twg7)
+-   Follow the steps above on [Top Level Component Fields](#top-level-component-fields)
 
 -   Do not add Child or Sibling levels, the spreadsheet ingest will handle these levels. 
 
@@ -801,7 +801,7 @@ Congratulations! You did it! It's over!
 
 5.  Name Order: Required. Indirect
 
-6.  Prefix: Required if applicable. (Example: Dr..)
+6.  Prefix: Required if applicable. (Example: Dr.)
 
 7.  Title: Required if applicable. (Example: Dame)  
 
@@ -861,7 +861,7 @@ This section is not required.
 
 Please fill in as much information as possible. Required fields are in red. The fields are broken into sections.
 
-1.  Follow the steps above for [Creating an Agent Record](https://docs.google.com/document/d/119JBkoKKtmhGbY2JZ19KmMF-L3sBd2ChOoG5Y2QvUO8/edit#heading=h.3mdwvjsvlt1o)
+1.  Follow the steps above for [Creating an Agent Record](#creating-an-agent-record)
 
 2.  Select Corporate Entity from the menu.
 
@@ -960,7 +960,7 @@ This section is not required.
 ## Family Fields
  Please fill in as much information as possible. Required fields are in red. The fields are broken into sections.
 
-1.  Follow the steps above for [Creating an Agent Record](https://docs.google.com/document/d/119JBkoKKtmhGbY2JZ19KmMF-L3sBd2ChOoG5Y2QvUO8/edit#heading=h.3mdwvjsvlt1o)
+1.  Follow the steps above for [Creating an Agent Record](#creating-an-agent-record)
 
 2.  Select Family from the menu.
 
