@@ -6,75 +6,75 @@ nav_order: 2
 
 ## Creating Resources in ArchivesSpace
 
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
 
-- [Logging In, Selecting a Repository, Browsing, and Searching](#Logging-In,-Selecting-a-Repository,-Browsing,-and-Searching)
+- [Logging In, Selecting a Repository, Browsing, and Searching](#logging-in-selecting-a-repository-browsing-and-searching)
 
-- [Creating a Resource](#Creating-a-Resource)
+- [Creating a Resource](#creating-a-resource)
 
-- [Manual Data Entry vs. Load via Spreadsheet](#Manual-Data-Entry-vs.-Load-via-Spreadsheet)
+- [Manual Data Entry vs. Load via Spreadsheet](#manual-data-entry-vs-load-via-spreadsheet)
 
-- [Creating a Resource with Manual Data Entry](#Creating-a-Resource-with-Manual-Data-Entry)
+- [Creating a Resource with Manual Data Entry](#creating-a-resource-with-manual-data-entry)
 
-- [Top Level Component Fields](#Top-Level-Component-Fields)
+- [Top Level Component Fields](#top-level-component-fields)
 
-- [Basic Information](#Basic-Information)
+- [Basic Information](#basic-information)
 
-- [Dates](#Dates)
+- [Dates](#dates)
 
-- [Extents](#Extents)
+- [Extents](#extents)
 
-- [Finding Aid Data](#Finding-Aid-Data)
+- [Finding Aid Data](#finding-aid-data)
 
-- [Revision Statements](#Revision-Statements)
+- [Revision Statements](#revision-statements)
 
-- [Related Accessions](#Related-Accessions)
+- [Related Accessions](#related-accessions)
 
-- [Agent Links](#Agent-Links)
+- [Agent Links](#agent-links)
 
-- [Subjects](#Subjects)
+- [Subjects](#subjects)
 
-- [Notes](#Notes)
+- [Notes](#notes)
 
-- [External Documents](#External-Documents)
+- [External Documents](#external-documents)
 
-- [Rights Statements](#Rights-Statements)
+- [Rights Statements](#rights-statements)
 
-- [Instances](#Instances)
+- [Instances](#instances)
 
-- [Deaccessions](#Deaccessions)
+- [Deaccessions](#deaccessions)
 
-- [Collection Management](#Collection-Management)
+- [Collection Management](#collection-Management)
 
-- [Classifications](#Classification)
+- [Classifications](#classification)
 
-- [User Defined](#User-Defined)
+- [User Defined](#user-defined)
 
-- [Adding a Child Component](#Adding-a-Child-Component)
+- [Adding a Child Component](#adding-a-child-component)
 
-- [Basic Information](#Basic-Information)
+- [Basic Information](#basic-information)
 
-- [Dates](#Dates)
+- [Dates](#dates)
 
-- [Extents](#Extents)
+- [Extents](#extents)
 
-- [Agent Links](#Agent-Links)
+- [Agent Links](#agent-links)
 
-- [Subjects](#Subjects)
+- [Subjects](#subjects)
 
-- [Notes](#Notes)
+- [Notes](#notes)
 
-- [External Documents](#External-Documents)
+- [External Documents](#external-documents)
 
-- [Rights Statements](#Rights-Statements)
+- [Rights Statements](#rights-statements)
 
-- [Instances](#Instances)
+- [Instances](#instances)
 
-- [Adding Additional Child Components](#Adding-Additional-Child-Components)
+- [Adding Additional Child Components](#adding-additional-child-components)
 
-- [Adding Sibling Components](#Adding-Sibling-Components)
+- [Adding Sibling Components](#adding-sibling-components)
 
-- [Creating a Resource with Load Via Spreadsheet](#Creating-a-resource-with-load-via-spreadsheet)
+- [Creating a Resource with Load Via Spreadsheet](#creating-a-resource-with-load-via-spreadsheet)
 
 - [Prepping the Spreadsheet for Ingest](#prepping-the-spreadsheet-for-ingest)
 
@@ -98,7 +98,7 @@ nav_order: 2
 
 - [Uploading the Spreadsheet](#uploading-the-spreadsheet)
 
-- [Appendix I: Agent Records](#appendix-i:-agent-records)
+- [Appendix I: Agent Records](#appendix-i-agent-records)
 
 - [Create an Agent Record](#create-an-agent-record)
 
@@ -144,7 +144,7 @@ nav_order: 2
 
 - [External Documents](#external-documents)
 
-- [Appendix II: Subject Records](#appendix-ii:-subject-records)
+- [Appendix II: Subject Records](#appendix-ii-subject-records)
 
 - [Create a Subject Record](#create-a-subject-record)
 
