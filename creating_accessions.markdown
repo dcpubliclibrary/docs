@@ -78,17 +78,17 @@ Add the following fields:
     
         Add one or more of the following material type subjects from the existing list:
 
-    -  Prints and photographs
-    -  Audio
-    -  Moving image
-    -  Books
-    -  Personal/family papers
-    -  Organizational records
-    -  Art and artifacts
-    -  Microform
-    -  Digital materials
-    -  Periodicals
-    -  Ephemera
+        -  Prints and photographs
+        -  Audio
+        -  Moving image
+        -  Books
+        -  Personal/family papers
+        -  Organizational records
+        -  Art and artifacts
+        -  Microform
+        -  Digital materials
+        -  Periodicals
+        -  Ephemera
 
 - RIGHTS STATEMENT
 
